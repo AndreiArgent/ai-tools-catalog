@@ -1,2 +1,16 @@
-# ai-tools-catalog
-My personal catalog of AI tools
+ # Личный каталог AI-инструментов
+
+## 1. LLM (Large Language Models)
+- [Название](ссылка) — краткое описание
+
+## 2. VLM (Vision-Language Models)
+- [Название](ссылка) — краткое описание
+
+## 3. Мультимодальные модели
+- [Название](ссылка) — краткое описание
+
+## 4. SLM (Small Language Models)
+- [Название](ссылка) — краткое описание
+
+## 5. Reasoning Models
+- [Название](ссылка) — краткое описание
