@@ -12,7 +12,7 @@
  
 
 ## 4. SLM (Small Language Models)
-- [Название](ссылка) — краткое описание
+ - [Phi-3-mini](https://github.com/marketplace/models/azureml/Phi-3-mini-4k-instruct) — компактная (3.8B) модель от Microsoft. Отлично работает на ноутбуках для рассуждений, кода и математики. Поддерживает контекст 128K токенов [citation:5][citation:7].
 
 ## 5. Reasoning Models
 - [Название](ссылка) — краткое описание
