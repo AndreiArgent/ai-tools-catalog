@@ -5,6 +5,7 @@
 
 ## 2. VLM (Vision-Language Models)
  - [LLaVA](https://github.com/haotian-liu/LLaVA) — одна из первых и самых популярных моделей, которая понимает и картинки, и текст. ⭐ 24.9k
+ - [Qwen-VL](https://github.com/QwenLM/Qwen-VL) — мультимодальная модель от Alibaba Cloud... ⭐ 6.7k
 
 ## 3. Мультимодальные модели
 - [Название](ссылка) — краткое описание
