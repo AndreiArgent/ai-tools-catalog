@@ -8,7 +8,8 @@
  - [Qwen-VL](https://github.com/QwenLM/Qwen-VL) — мультимодальная модель от Alibaba Cloud... ⭐ 6.7k
 
 ## 3. Мультимодальные модели
-- [Название](ссылка) — краткое описание
+- [ImageBind](https://github.com/facebookresearch/ImageBind) — ImageBind One Embedding Space to Bind Them All ⭐ 9k
+ 
 
 ## 4. SLM (Small Language Models)
 - [Название](ссылка) — краткое описание
