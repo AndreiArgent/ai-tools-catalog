@@ -15,4 +15,4 @@
  - [Phi-3-mini](https://github.com/marketplace/models/azureml/Phi-3-mini-4k-instruct) — компактная (3.8B) модель от Microsoft. Отлично работает на ноутбуках для рассуждений, кода и математики. Поддерживает контекст 128K токенов [citation:5][citation:7].
 
 ## 5. Reasoning Models
-- [Название](ссылка) — краткое описание
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) — модель с открытыми весами, специализирующаяся на цепочках рассуждений (Chain-of-Thought). Решает сложные математические, логические и программные задачи, конкурирует с OpenAI o1. ⭐ 92k
